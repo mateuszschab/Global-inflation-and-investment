@@ -1,4 +1,4 @@
-#Global inflation and investment
+# Global inflation and investment
 
 The excel file contains historical data on inflation in countries around the world. It allows you to select a country from a list and track the data since 1960. Some countries and time periods may be missing.
 Below is the appearance of the control panel:
